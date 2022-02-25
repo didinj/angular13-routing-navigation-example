@@ -1,4 +1,6 @@
-# RoutingSample
+# Angular 13 Tutorial: Routing and Navigation
+
+This source code is part of [Angular 13 Tutorial: Routing and Navigation]().
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
